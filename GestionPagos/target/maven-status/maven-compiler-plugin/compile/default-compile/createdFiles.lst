@@ -1,0 +1,7 @@
+modelo\Pago.class
+modelo\PruebaConexion.class
+com\pagos\gestionpagos\controller\PagoController.class
+com\pagos\gestionpagos\resources\JakartaEE8Resource.class
+modelo\Conexion.class
+modelo\PagoDAO.class
+com\pagos\gestionpagos\JakartaRestConfiguration.class
